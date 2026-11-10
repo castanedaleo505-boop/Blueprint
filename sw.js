@@ -1,6 +1,6 @@
 /* Blueprint service worker: keeps the app working with no signal.
    Bump CACHE whenever any file changes so phones pick up the new version. */
-const CACHE = 'blueprint-v4';
+const CACHE = 'blueprint-v5';
 const ASSETS = [
   './',
   './index.html',
